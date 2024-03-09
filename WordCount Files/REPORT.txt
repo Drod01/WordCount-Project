@@ -1,0 +1,7 @@
+I collaborated with two individuals and while it was both small, and just what was discusse dwas implementing the Makefile. 
+
+I believe everything is correct including the output file that was given.
+
+What is working is the code and the output being given, the only thing that might not work is the Makefile in correspondence with the code itself and the communication error.
+
+Challenges was definetely connecting the makefile and working in mobaxterm within the assignment.
